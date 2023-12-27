@@ -3,3 +3,14 @@ numpy
 pandas
 pydeck
 streamlit
+langchain
+pytesseract==0.3.10
+Pillow
+pypdfium2
+oauth2client
+openai 
+packaging
+google-auth
+google-auth-oauthlib
+google-api-python-client
+gspread
